@@ -4,11 +4,11 @@
 #include <AntaresESPHTTP.h>
 
 // Antares and Wi-Fi configuration
-#define ACCESSKEY "dfc006da1c3a0035:976d081f50d1fc94"  // Antares account access key
-#define WIFISSID "AKREDITASI"         // Wi-Fi SSID to connect to
-#define PASSWORD "akred2024"    // Wi-Fi password
-#define projectName "UnisaHidro"   // Name of the application created in Antares
-#define deviceName "Hidro"     // Name of the device created in Antares
+#define ACCESSKEY "acceskey antares"  // Antares account access key
+#define WIFISSID "wifiid"         // Wi-Fi SSID to connect to
+#define PASSWORD "password wifi"    // Wi-Fi password
+#define projectName "nameproject antares"   // Name of the application created in Antares
+#define deviceName "device project"     // Name of the device created in Antares
 
 AntaresESPHTTP antares(ACCESSKEY);
 
